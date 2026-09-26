@@ -5,16 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656c3ab1-ed02-4d0a-a52f-5788b7b17176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB032.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +80,21 @@
     "Python.QB014.executor": "Run",
     "Python.QB015.executor": "Run",
     "Python.QB016.executor": "Run",
+    "Python.QB018.executor": "Run",
+    "Python.QB019.executor": "Run",
+    "Python.QB020.executor": "Run",
+    "Python.QB021.executor": "Run",
+    "Python.QB022.executor": "Run",
+    "Python.QB023.executor": "Run",
+    "Python.QB024.executor": "Run",
+    "Python.QB025.executor": "Run",
+    "Python.QB026.executor": "Run",
+    "Python.QB027.executor": "Run",
+    "Python.QB028.executor": "Run",
+    "Python.QB029.executor": "Run",
+    "Python.QB030.executor": "Run",
+    "Python.QB031.executor": "Run",
+    "Python.QB032.executor": "Run",
     "Python.create_files.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
