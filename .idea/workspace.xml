@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656c3ab1-ed02-4d0a-a52f-5788b7b17176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB016.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/01_Input_Output_Variables_Types/QB001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/01_Input_Output_Variables_Types/create_files.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,23 +55,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.QB001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QB002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QB003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QB004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QB005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QB006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.create_files.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ljsn5k/Bhushan_Projects/PythonProject/Python-Mastery-Journey/Phase_01_Foundations/01_Input_Output_Variables_Types&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.QB001.executor": "Run",
+    "Python.QB002.executor": "Run",
+    "Python.QB003.executor": "Run",
+    "Python.QB004.executor": "Run",
+    "Python.QB005.executor": "Run",
+    "Python.QB006.executor": "Run",
+    "Python.QB007.executor": "Run",
+    "Python.QB008.executor": "Run",
+    "Python.QB009.executor": "Run",
+    "Python.QB010.executor": "Run",
+    "Python.QB011.executor": "Run",
+    "Python.QB012.executor": "Run",
+    "Python.QB013.executor": "Run",
+    "Python.QB014.executor": "Run",
+    "Python.QB015.executor": "Run",
+    "Python.QB016.executor": "Run",
+    "Python.create_files.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ljsn5k/Bhushan_Projects/PythonProject/Python-Mastery-Journey/Phase_01_Foundations/01_Input_Output_Variables_Types"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ljsn5k\Bhushan_Projects\PythonProject\Python-Mastery-Journey\Phase_01_Foundations\01_Input_Output_Variables_Types" />
