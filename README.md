@@ -1,6 +1,6 @@
 # Python Mastery Journey
 
-A structured Python learning repository containing 770 questions organized from beginner to advanced level.
+A structured Python learning repository containing 1000 questions organized from beginner to advanced level.
 
 ## Learning Roadmap
 
