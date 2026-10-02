@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656c3ab1-ed02-4d0a-a52f-5788b7b17176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB043.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB044.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB045.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +89,9 @@
     "Python.QB037.executor": "Run",
     "Python.QB040.executor": "Run",
     "Python.QB041.executor": "Run",
+    "Python.QB043.executor": "Run",
+    "Python.QB044.executor": "Run",
+    "Python.QB045.executor": "Run",
     "Python.create_files.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
