@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656c3ab1-ed02-4d0a-a52f-5788b7b17176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB045.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB046.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB047.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +91,8 @@
     "Python.QB043.executor": "Run",
     "Python.QB044.executor": "Run",
     "Python.QB045.executor": "Run",
+    "Python.QB046.executor": "Run",
+    "Python.QB047.executor": "Run",
     "Python.create_files.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -135,5 +136,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB047.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
