@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656c3ab1-ed02-4d0a-a52f-5788b7b17176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB051.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB052.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +95,9 @@
     "Python.QB047.executor": "Run",
     "Python.QB048.executor": "Run",
     "Python.QB049.executor": "Run",
+    "Python.QB050.executor": "Run",
+    "Python.QB051.executor": "Run",
+    "Python.QB052.executor": "Run",
     "Python.create_files.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
