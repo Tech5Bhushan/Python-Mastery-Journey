@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656c3ab1-ed02-4d0a-a52f-5788b7b17176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB061.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB062.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB063.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB064.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB065.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB066.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB067.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB070.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB071.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB072.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB066.py" beforeDir="false" afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB066.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB067.py" beforeDir="false" afterPath="$PROJECT_DIR$/Phase_01_Foundations/01_Input_Output_Variables_Types/QB067.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +117,11 @@
     "Python.QB064.executor": "Run",
     "Python.QB065.executor": "Run",
     "Python.QB066.executor": "Run",
+    "Python.QB067.executor": "Run",
+    "Python.QB068.executor": "Run",
+    "Python.QB069.executor": "Run",
+    "Python.QB070.executor": "Run",
+    "Python.QB071.executor": "Run",
     "Python.create_files.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",

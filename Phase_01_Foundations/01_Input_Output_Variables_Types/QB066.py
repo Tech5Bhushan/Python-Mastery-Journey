@@ -19,3 +19,6 @@ num2 = float(input("Enter a number: "))
 
 print("%.2f" % num1)
 
+# .2 → show 2 digits after the decimal point
+# f → floating-point format
+
