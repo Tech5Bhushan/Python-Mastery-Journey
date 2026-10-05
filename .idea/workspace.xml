@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656c3ab1-ed02-4d0a-a52f-5788b7b17176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/02_Conditions_Boolean_Logic/OB001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/02_Conditions_Boolean_Logic/QB002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/02_Conditions_Boolean_Logic/QB003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/02_Conditions_Boolean_Logic/QB004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/02_Conditions_Boolean_Logic/QB005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/02_Conditions_Boolean_Logic/QB006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/02_Conditions_Boolean_Logic/QB007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/02_Conditions_Boolean_Logic/QB008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/02_Conditions_Boolean_Logic/QB009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/02_Conditions_Boolean_Logic/QB010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/02_Conditions_Boolean_Logic/QB011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/03_Numbers_Arithmetic/QB001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/03_Numbers_Arithmetic/QB002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/03_Numbers_Arithmetic/QB003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/03_Numbers_Arithmetic/QB004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/03_Numbers_Arithmetic/QB005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/03_Numbers_Arithmetic/QB006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/03_Numbers_Arithmetic/QB007.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
