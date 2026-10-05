@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656c3ab1-ed02-4d0a-a52f-5788b7b17176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/03_Numbers_Arithmetic/QB021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/03_Numbers_Arithmetic/QB022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB007.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
