@@ -2,15 +2,14 @@
 
 Total Progress
 
-Solved: 0 / 770
+Solved:113 / 770
 
-## Phase 1 Foundations
+## Phase 1 Foundations 
 
-- [ ] QB001
-- [ ] QB002
-- [ ] QB003
-- [ ] QB004
-- [ ] QB005
+Progress: Completed
+113 / 113
 
-Progress:
-0 / 113
+## Phase 2 Strings 
+
+Progress: Completed
+20 / 165
