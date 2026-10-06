@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656c3ab1-ed02-4d0a-a52f-5788b7b17176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_01_Foundations/04_Loops_Ranges_Patterns/QB007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB010.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +105,7 @@
     "Python.QB047.executor": "Run",
     "Python.QB048.executor": "Run",
     "Python.QB049.executor": "Run",
+    "Python.QB05.executor": "Run",
     "Python.QB050.executor": "Run",
     "Python.QB051.executor": "Run",
     "Python.QB052.executor": "Run",
