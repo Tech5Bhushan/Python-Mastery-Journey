@@ -2,7 +2,7 @@
 
 Total Progress
 
-Solved:113 / 770
+Solved:133 / 770
 
 ## Phase 1 Foundations 
 
