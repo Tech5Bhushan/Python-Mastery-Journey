@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="656c3ab1-ed02-4d0a-a52f-5788b7b17176" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB019.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,5 +171,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Phase_02_Strings/String Basics and Slicing/QB016.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
