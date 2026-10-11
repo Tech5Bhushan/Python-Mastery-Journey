@@ -1,4 +1,5 @@
 # Q21. Write a Python program to format a specified string and limit the length of a string.
 
-s = "test_run"
-print(s.removeprefix("test_"))
+age = input("Enter your age: ")
+
+print(age + 1)
