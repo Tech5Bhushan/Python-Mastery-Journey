@@ -1,5 +1,17 @@
 # Q21. Write a Python program to format a specified string and limit the length of a string.
 
-age = input("Enter your age: ")
+text = input("Enter the Text: ")
+length = int(input("Enter the length of Text: "))
+print(text[:length])
 
-print(age + 1)
+# SOLUTION 2 :
+
+text1 = input("Enter the Text: ")
+length1 = int(input("Enter the length of Text: "))
+print(f"{text1:.{length1}}")
+
+
+# Using String Formatting
+
+text2 = input("Enter the Text: ")
+print("{:.6}".format(text2))
