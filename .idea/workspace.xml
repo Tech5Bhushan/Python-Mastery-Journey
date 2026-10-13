@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="656c3ab1-ed02-4d0a-a52f-5788b7b17176" name="Changes" comment="">
+    <list default="true" id="656c3ab1-ed02-4d0a-a52f-5788b7b17176" name="Changes" comment="Day 007 - Python Operators">
+      <change afterPath="$PROJECT_DIR$/../Getting-Started-With-Python/Day_008_Strings/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Getting-Started-With-Python/Day_008_Strings/string_concatenation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Getting-Started-With-Python/Day_008_Strings/string_repetition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Getting-Started-With-Python/Day_008_Strings/strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Getting-Started-With-Python/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Getting-Started-With-Python/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +25,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Getting-Started-With-Python" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -45,88 +51,89 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.OB001.executor": "Run",
-    "Python.QB001.executor": "Run",
-    "Python.QB002.executor": "Run",
-    "Python.QB003.executor": "Run",
-    "Python.QB004.executor": "Run",
-    "Python.QB005.executor": "Run",
-    "Python.QB006.executor": "Run",
-    "Python.QB007.executor": "Run",
-    "Python.QB008.executor": "Run",
-    "Python.QB009.executor": "Run",
-    "Python.QB010.executor": "Run",
-    "Python.QB011.executor": "Run",
-    "Python.QB012.executor": "Run",
-    "Python.QB013.executor": "Run",
-    "Python.QB014.executor": "Run",
-    "Python.QB015.executor": "Run",
-    "Python.QB016.executor": "Run",
-    "Python.QB017.executor": "Run",
-    "Python.QB018.executor": "Run",
-    "Python.QB019.executor": "Run",
-    "Python.QB020.executor": "Run",
-    "Python.QB021.executor": "Run",
-    "Python.QB022.executor": "Run",
-    "Python.QB023.executor": "Run",
-    "Python.QB024.executor": "Run",
-    "Python.QB025.executor": "Run",
-    "Python.QB026.executor": "Run",
-    "Python.QB027.executor": "Run",
-    "Python.QB028.executor": "Run",
-    "Python.QB029.executor": "Run",
-    "Python.QB030.executor": "Run",
-    "Python.QB031.executor": "Run",
-    "Python.QB032.executor": "Run",
-    "Python.QB033.executor": "Run",
-    "Python.QB034.executor": "Run",
-    "Python.QB035.executor": "Run",
-    "Python.QB036.executor": "Run",
-    "Python.QB037.executor": "Run",
-    "Python.QB040.executor": "Run",
-    "Python.QB041.executor": "Run",
-    "Python.QB043.executor": "Run",
-    "Python.QB044.executor": "Run",
-    "Python.QB045.executor": "Run",
-    "Python.QB046.executor": "Run",
-    "Python.QB047.executor": "Run",
-    "Python.QB048.executor": "Run",
-    "Python.QB049.executor": "Run",
-    "Python.QB05.executor": "Run",
-    "Python.QB050.executor": "Run",
-    "Python.QB051.executor": "Run",
-    "Python.QB052.executor": "Run",
-    "Python.QB053.executor": "Run",
-    "Python.QB054.executor": "Run",
-    "Python.QB055.executor": "Run",
-    "Python.QB056.executor": "Run",
-    "Python.QB057.executor": "Run",
-    "Python.QB058.executor": "Run",
-    "Python.QB059.executor": "Run",
-    "Python.QB060.executor": "Run",
-    "Python.QB061.executor": "Run",
-    "Python.QB062.executor": "Run",
-    "Python.QB063.executor": "Run",
-    "Python.QB064.executor": "Run",
-    "Python.QB065.executor": "Run",
-    "Python.QB066.executor": "Run",
-    "Python.QB067.executor": "Run",
-    "Python.QB068.executor": "Run",
-    "Python.QB069.executor": "Run",
-    "Python.QB070.executor": "Run",
-    "Python.QB071.executor": "Run",
-    "Python.QB072.executor": "Run",
-    "Python.create_files.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ljsn5k/Bhushan_Projects/PythonProject/Python-Mastery-Journey/Phase_01_Foundations/01_Input_Output_Variables_Types"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.OB001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB029.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB030.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB031.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB032.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB033.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB034.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB035.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB036.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB037.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB040.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB041.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB043.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB044.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB045.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB046.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB047.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB049.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB051.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB052.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB053.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB054.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB055.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB056.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB057.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB058.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB059.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB060.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB061.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB062.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB063.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB064.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB065.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB066.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB067.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB068.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB069.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB070.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB071.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QB072.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create_files.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ljsn5k/Bhushan_Projects/PythonProject/Python-Mastery-Journey/Phase_01_Foundations/01_Input_Output_Variables_Types&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ljsn5k\Bhushan_Projects\PythonProject\Python-Mastery-Journey\Phase_01_Foundations\01_Input_Output_Variables_Types" />
@@ -150,6 +157,15 @@
       <option name="presentableId" value="Default" />
       <updated>1790360475333</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 007 - Python Operators">
+      <option name="closed" value="true" />
+      <created>1791808683878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791808683878</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +178,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 007 - Python Operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 007 - Python Operators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
